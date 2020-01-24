@@ -5,7 +5,7 @@ package com.builderMethodObjCreation;
 
 /**
  * @author hcharadva
- * -> This is to show how the constructor call is happening for all types.
+ * -> This is to show how the constructor can be made based on need.
  */
 public class Client {
 

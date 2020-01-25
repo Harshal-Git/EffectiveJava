@@ -4,7 +4,7 @@
 package com.equalityTest.inheritedVScomposition;
 
 /**
- * @author hcharadva
+ * @author Harshal-Git
  * -> class to represent x, y points 
  */
 public class Point {

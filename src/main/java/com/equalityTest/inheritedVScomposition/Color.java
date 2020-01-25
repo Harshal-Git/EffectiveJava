@@ -4,7 +4,7 @@
 package com.equalityTest.inheritedVScomposition;
 
 /**
- * @author hcharadva
+ * @author Harshal-Git
  * -> Simple "Color" class with an overridden equals() method to compare instance first and then match color value string. 
  */
 public class Color {

@@ -1,7 +1,7 @@
 package com.equalityTest.inheritedVScomposition;
 
 /**
- * @author hcharadva
+ * @author Harshal-Git
  *
  */
 public class Client {

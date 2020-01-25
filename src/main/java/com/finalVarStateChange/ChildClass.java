@@ -6,7 +6,7 @@ package com.finalVarStateChange;
 import java.util.Date;
 
 /**
- * @author hcharadva
+ * @author Harshal-Git
  *
  */
 public class ChildClass extends SuperClass{

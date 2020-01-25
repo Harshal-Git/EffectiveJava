@@ -4,7 +4,7 @@
 package com.equalityTest.inheritedVScomposition;
 
 /**
- * @author hcharadva
+ * @author Harshal-Git
  * -> this class is similar to ColorPoint but only the difference is of composition of "Color" class instead of inheritance
  */
 public class ColorPointComposition {

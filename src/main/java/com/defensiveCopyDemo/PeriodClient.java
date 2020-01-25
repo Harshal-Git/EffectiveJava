@@ -6,7 +6,7 @@ package com.defensiveCopyDemo;
 import java.util.Date;
 
 /**
- * @author hcharadva
+ * @author Harshal-Git
  * 
  * -> To demonstrate how clients can change the state of object which may cause incorrect results.
  * 

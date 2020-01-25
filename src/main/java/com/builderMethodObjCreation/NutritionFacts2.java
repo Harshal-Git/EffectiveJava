@@ -4,7 +4,7 @@
 package com.builderMethodObjCreation;
 
 /**
- * @author hcharadva
+ * @author Harshal-Git
  * -> example of JavaBeans constructor approach
  */
 public class NutritionFacts2 {

@@ -6,7 +6,7 @@ package com.cloneTest;
 import java.util.Arrays;
 
 /**
- * @author hcharadva
+ * @author Harshal-Git
  *
  */
 public class ArrayClass implements Cloneable{

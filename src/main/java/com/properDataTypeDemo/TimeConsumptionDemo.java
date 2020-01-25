@@ -6,7 +6,7 @@ package com.properDataTypeDemo;
 import java.util.Date;
 
 /**
- * @author hcharadva
+ * @author Harshal-Git
  * -> How to unnecessary initialization of Wrapper object can be expensive is explained in this code.
  * 
  * -> Make the "total" variable as Long wrapper class; it will take longer time compared to primitive long. 

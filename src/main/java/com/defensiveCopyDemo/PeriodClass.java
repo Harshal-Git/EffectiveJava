@@ -6,7 +6,7 @@ package com.defensiveCopyDemo;
 import java.util.Date;
 
 /**
- * @author hcharadva
+ * @author Harshal-Git
  */
 public class PeriodClass {
 

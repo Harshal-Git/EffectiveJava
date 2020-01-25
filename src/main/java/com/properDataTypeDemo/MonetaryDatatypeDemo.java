@@ -6,7 +6,7 @@ package com.properDataTypeDemo;
 import java.math.BigDecimal;
 
 /**
- * @author hcharadva
+ * @author Harshal-Git
  *  
  */
 public class MonetaryDatatypeDemo {

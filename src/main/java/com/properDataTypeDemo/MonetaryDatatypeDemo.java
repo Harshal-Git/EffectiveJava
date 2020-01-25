@@ -7,12 +7,7 @@ import java.math.BigDecimal;
 
 /**
  * @author hcharadva
- * 
- * Suppose you have a dollar in your pocket, and you see a shelf with a row of delicious candies priced at 10¢, 20¢, 30¢, and so forth, up to a dollar. 
- * You buy one of each candy, starting with the one that costs 10¢, until you can’t afford to buy the next candy on the shelf. 
- * How many candies do you buy, and how much change do you get?
- * 
- * This program will show the inconsistency to solve monetary problems using float. This type of calculation should be done with BigDecimal / int / long. 
+ *  
  */
 public class MonetaryDatatypeDemo {
 

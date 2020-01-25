@@ -14,14 +14,6 @@ import java.util.Set;
 /**
  * @author hcharadva
  * 
- * -> In this program, we are putting different types of concrete collection implementation objects into a Collection array and trying to identify that concrete
- * 		implementation class type. 
- * 
- * -> For all three iterations of the classify() method loop, the compile-time type of the parameter is the same: Collection<?>. The runtime type is 
- * different in each iteration, but this does not affect the choice of overloading. Because the compile-time type of the parameter is Collection<?>, 
- * the only applicable overloading is the third one, classify(Collection<?>), and this overloading is invoked in each iteration of the loop.
- * 
- * -> To overcome this, the option "instanceOf" check is given. Considering that, no further method override is needed.
  */
 public class OverloadClient {
 

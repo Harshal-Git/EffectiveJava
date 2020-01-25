@@ -1,10 +1,10 @@
--> Telescoping constructors:
+-> Telescoping constructors - NutritionFacts1.java :
 
 Provide as many combinations as per number of class variables; including optional values. 
 
 The telescoping constructor pattern works, but it is hard to write client code when there are many parameters, and harder still to read it.
 
--> JavaBeans approach:
+-> JavaBeans approach - NutritionFacts2.java :
 
 Provide default values to all members first and then use setter methods to set appropriate values and use getter method to read it.
 
@@ -12,7 +12,7 @@ Because construction / value setting is split across multiple calls, a JavaBean 
 disadvantage is that the JavaBeans pattern precludes the possibility of making a class immutable, and requires added effort on the part of the programmer 
 to ensure thread safety.
 
--> Builder pattern: 
+-> Builder pattern - NutritionFacts3.java : 
 
 Instead of making the desired object directly, the client calls a constructor (or static factory) with all of the required parameters and gets a builder object.
 

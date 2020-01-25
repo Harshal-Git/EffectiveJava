@@ -5,8 +5,6 @@ package com.overloadVSoverride;
 
 /**
  * @author hcharadva
- * -> The behavior similar to overloaded methods, is explained with overridden methods.
- * -> Overridden methods gets identified at run time.
  */
 public class OverrideClient {
 

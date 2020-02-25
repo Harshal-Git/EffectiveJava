@@ -1,4 +1,3 @@
-com\diffArrayVSColl\ArrayVSCollectionDiff.class
 com\builderMethodObjCreation\NutritionFacts1.class
 com\builderMethodObjCreation\NutritionFacts3$Builder.class
 com\builderMethodObjCreation\Client.class
@@ -17,6 +16,7 @@ com\defensiveCopyDemo\PeriodClient.class
 com\overloadVSoverride\Wine.class
 com\equalityTest\symmetryFailure\CaseInsensitiveString.class
 com\overloadVSoverride\SparklingWine.class
+com\diffArrayVSColl\ArrayVSCollectionDiffClient.class
 com\finalVarStateChange\ChildClass.class
 com\equalityTest\inheritedVScomposition\Color.class
 com\properDataTypeDemo\TimeConsumptionDemo.class

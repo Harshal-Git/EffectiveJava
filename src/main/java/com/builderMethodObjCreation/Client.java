@@ -31,7 +31,8 @@ public class Client {
 		 */
 		//NutritionFacts3 fanta1= new NutritionFacts3.Builder(400, 10).build();
 		
-		NutritionFacts3 fanta2= new NutritionFacts3.Builder(240, 8).calories(100).sodium(35).carbohydrate(27).build();
+		NutritionFacts3 fanta2= new NutritionFacts3.Builder(240, 8).fat(0).calories(100).sodium(35).carbohydrate(27).build();
+		System.out.println(fanta2.toString());
 	}
 
 }

@@ -21,4 +21,4 @@ Project specifications:
 
 -> Maven: Maven structure built with version-3.6.3
 
--> Java: Project configured for Java 8. Expected java version (7 and above) can be updated in pom.xml file. 
+-> Java: Project configured for Java 7. Expected java version (7 and above) can be updated in pom.xml file. 

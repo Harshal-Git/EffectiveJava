@@ -21,6 +21,11 @@ public class ArrayVSCollectionDiffClient {
 		System.out.println("Declared object array...");
 		
 		System.out.println("Put string data...");
+		
+		/*
+		 * This will not give compilation issue but it will fail at run time.
+		 * So to make it fail safe in advance, generics are used with collections.
+		 */
 		objArray[0]= "This is string";
 		
 		/*

@@ -16,9 +16,4 @@ Project specifications:
 
 -> main() methods to execute the code are provided in "*Client.java" class.
 
--> Alternate behaviors for same functionality are mentioned with the name: "Non compliant code" and "Compliant code". Switch between the codes 
-	and observe the difference. 
-
--> Maven: Maven structure built with version-3.6.3
-
--> Java: Project configured for Java 7. Expected java version (7 and above) can be updated in pom.xml file. 
+-> Alternate behaviors for same functionality are mentioned with the name: "Non compliant code" and "Compliant code". Switch between the codes and observe the difference. 
